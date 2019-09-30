@@ -1,0 +1,2 @@
+# detectsalt
+seismic image segmentation
